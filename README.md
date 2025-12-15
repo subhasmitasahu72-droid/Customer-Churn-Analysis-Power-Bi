@@ -14,7 +14,7 @@ This project is designed to demonstrate my skills in:
 
 ## 🗂 Dataset Information
 - **Dataset Name:** Telco Customer Churn Dataset  
-- **Source:** IBM Sample Dataset  
+- **Source:** Sample Dataset  
 - **Records:** ~7,000 customers  
 - **Key Attributes:**
   - Customer demographics
@@ -97,4 +97,15 @@ This project is designed to demonstrate my skills in:
 
 ---
 
-## 📁 Repository Structure
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are welcome — feel free to open a PR or issue.
+
+---
+
+## 📬 Contact
+
+- **Email:** subhasmitasahu72@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/subhasmita-sahu-b0aa92209/
+
+---
